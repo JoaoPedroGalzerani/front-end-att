@@ -1,0 +1,107 @@
+*
+{
+    margin: 0; 
+}
+@font-face {
+    font-family: sans;
+    src: url(fonte/Qdbettercomicsansalternates-z8823.ttf);
+}
+#cabecalho
+{
+    width: 100%;
+    height: 105px;
+    background-color: #a6d0dd;
+}
+h1
+{
+    color: white;
+    font-family: sans;
+
+}
+h2
+{
+    color: #666161;
+    font-family: sans;
+}
+h3
+{
+    color: #666161;
+    font-family: sans;
+}
+h4
+{
+    color: #666161;
+    font-family: sans;
+}
+h5
+{
+    color: #666161;
+    font-family: sans;
+}
+.topics
+{
+    width: 20%;
+    height: 100px;
+    border: 1px solid black;
+    border-radius: 10px;
+}
+#search
+{
+    border-radius: 10px;
+}
+nav
+{
+    height: 115px;
+    width: 100%;
+    background-color: #b9e1ee;
+}
+#release
+{
+    height: 350px;
+    background-color: #f9f9f8;
+     width: 100%;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     border-radius: 10px;
+}
+#promotions
+{
+    height: 350px;
+    background-color: #f9f9f8;
+     width: 100%;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     
+}
+#geek
+{
+    height: 350px;
+    background-color: #f9f9f8;
+     width: 100%;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+}
+#cart
+{
+    height: 400px;
+    background-color: #f9f9f8;
+     width: 100%;
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+}
+#shipping
+{
+    height: 500px;
+    background-color: #f9f9f8;
+    width: 100%;
+}
+footer
+{
+    height: 267px;
+    background-color: #a6d0dd;
+    width: 100%;
+}
